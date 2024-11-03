@@ -69,62 +69,50 @@
     <tr style="background-color: #f0f4f8; color: #333;">
       <th style="padding: 10px; border: 1px solid #ddd;">Element</th>
       <th style="padding: 10px; border: 1px solid #ddd;">Color Hex</th>
-      <th style="padding: 10px; border: 1px solid #ddd;">Color Box</th>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Dark App Background</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#0D1117</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #0D1117; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Light App Background</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#F6F8FA</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #F6F8FA; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Error Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#F33333</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #F33333; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Text Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#AFAFAF</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #AFAFAF; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Title Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#F0F6FC</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #F0F6FC; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Yes Hireable Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#3FB950</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #3FB950; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">No Hireable Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#A4393A</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #A4393A; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Horizontal Divider Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#151B23</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #151B23; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Image Background Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#0D1117</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #0D1117; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Repository Item Background Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#141D25</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #141D25; width: 50px; height: 20px;"></td>
     </tr>
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;">Button Color</td>
       <td style="padding: 10px; border: 1px solid #ddd;"><code>#713FC8</code></td>
-      <td style="padding: 10px; border: 1px solid #ddd; background-color: #713FC8; width: 50px; height: 20px;"></td>
     </tr>
   </table>
 </p>
@@ -133,9 +121,17 @@
 
 ---
 
-<h2 style="color: #2f80ed;">📄 License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
-
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Footer+Graphic" alt="Footer Graphic" width="80%">
+  <img src="https://github.com/AdhamCl/GithubProfile/blob/master/logo.png" alt="Project Logo" width="150">
+</p>
+<p align="center">
+  Made with ❤️ by Adham
+</p>
+<p align="center">
+  <a href="https://github.com/AdhamCl/GithubProfile">
+    <img src="https://img.shields.io/badge/Project-GitHub-blue.svg" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/adhamcl">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue.svg" alt="LinkedIn">
+  </a>
 </p>
